@@ -1,0 +1,9 @@
+node_modules/
+*.log
+.idea/
+production/
+db.json
+**.idea/
+*.imo
+*.iml
+*.class

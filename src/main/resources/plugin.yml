@@ -1,0 +1,10 @@
+name: GitBroadcast
+description: Automated Broadcasting pulled from Github
+main: co.mchost.gitbroadcast.GitBroadcast
+version: 1.0.0
+author: Luuke
+prefix: GitBroadcast
+commands:
+    GitBroadcast:
+        description: GitBroadcast core command.
+        usage: /GitBroadcast
